@@ -1,4 +1,5 @@
 # PDF Audio Reader 🎧
+This is the beginer level , simple and easy code, I hope it will be understandable.     
 
 A lightweight, user-friendly desktop application built with Python that reads your PDF files out loud! It comes with a modern Tkinter Graphical User Interface (GUI) and utilizes text-to-speech capabilities to make your documents accessible and easy to listen to.
 
