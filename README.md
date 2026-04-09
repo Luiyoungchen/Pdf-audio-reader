@@ -34,3 +34,5 @@ You will need to have **Python 3.x** installed on your system.
 ## Troubleshooting 
 - **ModuleNotFoundError:** Ensure you ran the `pip install -r requirement.txt` command in the correct directory.
 - **No Audio Playing:** Make sure your system volume is turned up and you selected a valid PDF that contains actual text (not purely scanned images!).
+
+I hpoe you understand , thank you
